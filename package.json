@@ -4,7 +4,7 @@
   "description": "code with express",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "node api.js && nodemon server.js"
   },
   "author": "Hirwa Joric",
   "license": "ISC",
